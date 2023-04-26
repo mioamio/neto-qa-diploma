@@ -23,3 +23,17 @@ testImplementation 'io.qameta.allure:allure-selenide:2.14.0'
 ```
 
 Для работы с БД и симулятором банковских сервисов использовался [Docker](https://www.docker.com/products/docker-desktop)
+
+
+Ссылки на найденные ошибки:
+
+- Сумма оплаты тура в базе данных при оплате отличается https://github.com/mioamio/neto-qa-diploma/issues/1
+- Неподходящее название в заголовке страницы https://github.com/mioamio/neto-qa-diploma/issues/2
+- Двойное уведомление при отправке запроса с не валидным номером карты https://github.com/mioamio/neto-qa-diploma/issues/3
+- Неправильное поведение отображения сообщения об ошибке под полем ввода после исправления https://github.com/mioamio/neto-qa-diploma/issues/4
+- Падение веб-сервера при отправке некорректным значением поля "Номер карты" https://github.com/mioamio/neto-qa-diploma/issues/5
+- Неполная валидация поля "Месяц" https://github.com/mioamio/neto-qa-diploma/issues/6
+- Неполная валидация поля "CVC/CVV" https://github.com/mioamio/neto-qa-diploma/issues/7
+- Отсутствует валидация поля "Владелец" https://github.com/mioamio/neto-qa-diploma/issues/8
+- Операция проходит успешно при отправке карты со статусом DECLINED https://github.com/mioamio/neto-qa-diploma/issues/9
+- Отображение кредитной истории в базе данных при оплате в кредит не записывается https://github.com/mioamio/neto-qa-diploma/issues/10
