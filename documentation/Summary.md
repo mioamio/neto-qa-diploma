@@ -23,8 +23,3 @@
 - Всего: 24 тест-кейсов
 - Успешных: 20 (83.33%)
 - Неуспешных: 4 (16.67%)
-
-Отчет Gradle:
-
-
-![test](https://user-images.githubusercontent.com/98706916/234461595-e7bf2017-6e5b-4cb6-9df8-dcb4e131e3c9.jpg)
