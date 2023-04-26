@@ -24,6 +24,15 @@ testImplementation 'io.qameta.allure:allure-selenide:2.14.0'
 
 Для работы с БД и симулятором банковских сервисов использовался [Docker](https://www.docker.com/products/docker-desktop)
 
+Отчет Gradle:
+
+
+![test](https://user-images.githubusercontent.com/98706916/234461595-e7bf2017-6e5b-4cb6-9df8-dcb4e131e3c9.jpg)
+
+### **Отчет Allure:**
+
+![test](https://user-images.githubusercontent.com/98706916/234649592-486de968-533b-4807-bdad-b0f844cd08db.jpg)
+
 
 Ссылки на найденные ошибки:
 
