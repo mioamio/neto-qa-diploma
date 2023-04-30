@@ -31,8 +31,7 @@ testImplementation 'io.qameta.allure:allure-selenide:2.14.0'
 
 ### **Отчет Allure:**
 
-![test](https://user-images.githubusercontent.com/98706916/234649592-486de968-533b-4807-bdad-b0f844cd08db.jpg)
-
+![test](https://user-images.githubusercontent.com/98706916/235362193-d7fbc19d-4080-4809-bcd4-57edc5634be1.jpg)
 
 Ссылки на найденные ошибки:
 
